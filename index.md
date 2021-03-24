@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome to our home page!
 
-You can use the [editor on GitHub](https://github.com/WangXuLaw/wangxulaw.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Our story
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-2016 Met at Prof. Liu's lecture
 
-### Markdown
+-2017 Been each other's teaching assistant
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-2018 Entered PhD career together
 
-```markdown
-Syntax highlighted code block
+-2019 Started a formal journey of beautiful romance
 
-# Header 1
-## Header 2
-### Header 3
+-2020 Experienced an unforgetable life in a challenging world
 
-- Bulleted
-- List
+-2021 Struggling for our wonderful future
 
-1. Numbered
-2. List
+### WHAT ARE WE CARING ABOUT NOW
+#### Justice and Law
+-Platforms
 
-**Bold** and _Italic_ and `Code` text
+-Anti-trust
 
-[Link](url) and ![Image](src)
-```
+-Privacy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Our short-term academic plan
+-Publish two or more cssci/ssci articles each other
 
-### Jekyll Themes
+-Finish our degree essay
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WangXuLaw/wangxulaw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Our short-term un-academic plan
+-Be healthy
 
-### Support or Contact
+-Make our relationship more robust
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-Do more sporting
+
+-Be happy every day
+
+### Our future
+
+-WELL-KNOWN REPUTATION!
+
+-SUCCESSFUL ACADEMIC CAREER!
+
+-BIG HOUSE!
+
+-VERY RICH!
+
+-LOVELY CHILDREN!
+
+-MAKE THE SUCK WORLD BETTER!
+
+## Thank you for your attention!
